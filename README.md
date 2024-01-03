@@ -1,5 +1,4 @@
-### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4BF736&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Welcome+to+my+profile!" alt="Typing SVG" /></a>
-</span>
+### <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4BF736&center=falso&vCenter=falso&repeat=verdadeiro&random=falso&width=435&lines=Welcome+to+my+profile!;Bem+vindo(a)+ao+meu+perfil!" alt="Typing SVG" /></a>
 
 ![3HeO](https://github.com/crxtn/crxtn/assets/141663844/398e683c-538e-4765-a0a0-4b2508e089b9)
 
